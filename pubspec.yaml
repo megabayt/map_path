@@ -2,7 +2,7 @@ name: map_path
 description: A tool to easilly get values from map by path
 repository: https://github.com/megabayt/map_path
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'

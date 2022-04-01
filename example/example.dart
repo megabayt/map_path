@@ -46,7 +46,7 @@ void main() {
   // Returns null because path map4.b not exists;
   print(result4);
 
-  final map5 = null;
+  final dynamic map5 = null;
 
   final result5 = mapPath(map5, ['a']) ?? 'null';
 
